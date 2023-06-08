@@ -6,5 +6,7 @@ This is a basic collection of python scripts that may be useful in automating re
 
 *Tools will be added down the line as needed*
 
+*Install pandas, openpyxl, tqdm, art*
+
 ### 1. Summative Excel 
 Script with terminal interface that helps with aggregating data in a large excel file built with pandas.
